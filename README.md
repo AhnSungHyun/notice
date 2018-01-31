@@ -1,7 +1,7 @@
 
 <body>
   <style>
-a {color:blue;}
+a {color:red;}
   </style>
   
   
