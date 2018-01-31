@@ -1,4 +1,12 @@
-
+<head>
+               <style>
+                    a{
+                    color:blue;
+                    }
+                   
+               </style>
+                   
+</head>
 <body>
 <h1> HTML TAG에 대한 정리</h1>
 <ol>
